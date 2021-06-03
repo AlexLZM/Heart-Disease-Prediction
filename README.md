@@ -1,6 +1,5 @@
-# MSDS 699 Final Project
+# Heart Disease Prediction Project
 
-## Student: Zhimin Lyu
 
 ## Project description
 This dataset gives information of patients related to heart disease. Dataset contains 14 features of patients' conditons and test results, target variable is the fact that the patient has heart disease or not. 
